@@ -34,8 +34,14 @@ I am currently pursuing a Bachelor's degree in Software Engineering. I have a st
 
 ---
 
+### 🌟 Interests
+- **Machine Learning**: Enthusiastic about developing algorithms and models to solve real-world problems.
+- **Artificial Intelligence**: Interested in AI applications, including natural language processing and computer vision.
+- **Data Science**: Exploring data analysis, visualization, and machine learning techniques to derive insights from data.
+- **Backend Development**: Passionate about building robust and scalable server-side applications.
+
+---
+
 ### 📫 Get in Touch
 - **LinkedIn**: [Mohammad Rayan](https://www.linkedin.com/in/mohammad-rayan-98301229a/)
 - **Email**: [mohammadrayan0477@outlook.com](mailto:mohammadrayan0477@outlook.com)
-
----
